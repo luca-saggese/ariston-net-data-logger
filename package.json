@@ -1,0 +1,22 @@
+{
+  "name": "ariston-net-data-logger",
+  "version": "1.0.0",
+  "description": "Data Logger for Ariston Net Thermo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luca-saggese/ariston-net-data-logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luca-saggese/ariston-net-data-logger/issues"
+  },
+  "homepage": "https://github.com/luca-saggese/ariston-net-data-logger#readme",
+  "dependencies": {
+    "ariston-remotethermo-client": "0.0.4"
+  }
+}
