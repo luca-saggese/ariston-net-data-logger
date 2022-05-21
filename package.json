@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/luca-saggese/ariston-net-data-logger#readme",
   "dependencies": {
-    "ariston-remotethermo-client": "0.0.4"
+    "ariston-remotethermo-client": "0.0.4",
+    "moment-timezone": "^0.5.34"
   }
 }
